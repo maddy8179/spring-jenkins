@@ -5,3 +5,5 @@ spring:
 logging:
   level: DEBUG
     
+server:
+  port: 8081
